@@ -131,15 +131,6 @@ cd backend && npm run build
 
 ---
 
-## Screenshots
-
-| | | |
-|---|---|---|
-| ![Login](https://placehold.co/400x250/0f172a/38bdf8?text=Login) | ![Dashboard](https://placehold.co/400x250/0f172a/38bdf8?text=Dashboard) | ![Devices](https://placehold.co/400x250/0f172a/38bdf8?text=Devices) |
-| ![Topology](https://placehold.co/400x250/0f172a/38bdf8?text=Topology) | ![Alerts](https://placehold.co/400x250/0f172a/38bdf8?text=Alerts) | ![Analytics](https://placehold.co/400x250/0f172a/38bdf8?text=Analytics) |
-
----
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
